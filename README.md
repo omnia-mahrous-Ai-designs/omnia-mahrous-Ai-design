@@ -1,48 +1,56 @@
-# 👋 Hi, I’m Omnia Mahrous
-
-🎯 **AI & Machine Learning Enthusiast** | **Data Science Explorer**  
-💻 Skilled in Python, Scikit-learn, Pandas, NumPy, PyTorch, and AI Model Design  
-📍 Egypt | 📧 omniamahrous24@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/omnia-mahrous-15a04b230)
-
----
-
-## 🧠 About Me
-Passionate about turning data into actionable insights using **machine learning** and **deep learning**.  
-I enjoy working on real-world projects, applying algorithms to solve classification problems, and exploring neural network architectures.
+# 👋 Hi, I’m **Omnia Mahrous**  
+🎯 *AI & Machine Learning Enthusiast* | *Data Science Explorer*  
+💻 Skilled in **Python**, **Scikit-learn**, **Pandas**, **NumPy**, **PyTorch**, and **AI Model Design**  
+📍 *Egypt* | 📧 *omniamahrous24@gmail.com*  
+🔗 [**LinkedIn Profile**](https://www.linkedin.com/in/omnia-mahrous-15a04b230)  
 
 ---
 
-## 🛠 Skills
-- **Programming:** Python, NumPy, Pandas, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, Naive Bayes (Gaussian, Multinomial, Bernoulli), Decision Trees
-- **Deep Learning:** PyTorch (Neural Network Design, Training, and Evaluation)
-- **Data Science:** Data Cleaning, Feature Engineering, Model Evaluation
+## 🧠 About Me  
+I’m passionate about transforming data into actionable insights through **Machine Learning** and **Deep Learning**.  
+My focus is on **solving real-world problems** using classification algorithms, neural networks, and data-driven decision making.  
+I aim to contribute to impactful AI solutions in **healthcare, image processing, and data analysis**.  
 
 ---
 
-## 📂 Projects
+## 🛠 Skills  
 
-### 1️⃣ Wall Color Classification (In Progress)
-- **Goal:** Classify wall colors based on image data.
-- **Tools:** Python, PyTorch, CNNs
-- **Status:** Currently developing and optimizing the model.
+**Programming & Libraries:**  
+- Python, NumPy, Pandas, Matplotlib, Seaborn  
 
-### 2️⃣ Diabetes Prediction using Naive Bayes
-- **Goal:** Predict whether a person is diabetic based on medical data.
-- **Algorithms:** GaussianNB, MultinomialNB, BernoulliNB
-- **Outcome:** Achieved high accuracy and strong precision/recall scores.
+**Machine Learning:**  
+- Scikit-learn, Naive Bayes *(Gaussian, Multinomial, Bernoulli)*, Decision Trees  
 
-### 3️⃣ Neural Network Models for Image & Data Classification
-- **Goal:** Apply deep learning to classify datasets with complex patterns.
-- **Tools:** PyTorch, Fully Connected Layers, CNNs
-- **Outcome:** Successfully trained models with good generalization.
+**Deep Learning:**  
+- PyTorch *(Neural Network Design, CNNs, Model Training & Evaluation)*  
+
+**Data Science:**  
+- Data Cleaning, Feature Engineering, Model Evaluation  
 
 ---
 
-## 📜 License
-This repository is licensed under the **MIT License** – you are free to use the code with attribution.
+## 📂 Projects  
+
+**1️⃣ Wall Color Classification** *(In Progress)*  
+- **Goal:** Classify wall colors from image datasets  
+- **Tools:** Python, PyTorch, CNNs  
+- **Status:** Currently developing and optimizing the model  
+
+**2️⃣ Diabetes Prediction using Naive Bayes**  
+- **Goal:** Predict whether a patient is diabetic based on medical data  
+- **Algorithms:** GaussianNB, MultinomialNB, BernoulliNB  
+- **Outcome:** Achieved high accuracy and strong precision/recall  
+
+**3️⃣ Neural Network Models for Image & Data Classification**  
+- **Goal:** Build and train deep learning models for complex datasets  
+- **Tools:** PyTorch, Fully Connected Layers, CNNs  
+- **Outcome:** Models trained with excellent generalization performance  
 
 ---
-⭐ **Feel free to check out my repositories and connect with me on LinkedIn!**
+
+## 📜 License  
+This repository is licensed under the **MIT License** – you are free to use the code with attribution.  
+
+⭐ *Feel free to check out my repositories and connect with me on LinkedIn!*  
+
 
